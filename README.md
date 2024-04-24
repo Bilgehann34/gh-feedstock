@@ -1,7 +1,7 @@
 About gh-feedstock
 ==================
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/gh-feedstock/blob/main/LICENSE.txt)
+Feedstock license: [BSD-3-Clause](https://Google.com/conda-forge/gh-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/cli/cli
 
